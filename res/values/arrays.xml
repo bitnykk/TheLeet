@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="servers">
-		<item>Atlantean</item>
-		<item>Rimor</item>
+		<item>Rubi-Ka</item>
+		<item>RK 2019</item>
 		<item>TestLive</item>
 	</string-array>
 	<string-array name="servers_values">
-		<item>1</item>
-		<item>2</item>
+		<item>5</item>
+		<item>6</item>
 		<item>0</item>
 	</string-array>
 	<string-array name="server">
-		<item>Atlantean</item>
-		<item>Rimor</item>
+		<item>Rubi-Ka</item>
+		<item>RK 2019</item>
 	</string-array>
 	<string-array name="server_values">
-		<item>1</item>
-		<item>2</item>
+		<item>5</item>
+		<item>6</item>
 	</string-array>
 	<string-array name="search">
 	    <item>Characters</item>

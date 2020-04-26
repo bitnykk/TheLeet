@@ -1120,13 +1120,13 @@ containing a value of this type.
         public static final int windowSplitActionBar=0x7f010044;
     }
     public static final class bool {
-        public static final int abs__action_bar_embed_tabs=0x7f080000;
-        public static final int abs__action_bar_expanded_action_views_exclusive=0x7f080002;
+        public static final int abs__action_bar_embed_tabs=0x7f070000;
+        public static final int abs__action_bar_expanded_action_views_exclusive=0x7f070002;
         /**  Whether action menu items should be displayed in ALLCAPS or not.
          Defaults to true. If this is not appropriate for specific locales
          it should be disabled in that locale's resources. 
          */
-        public static final int abs__config_actionMenuItemAllCaps=0x7f080004;
+        public static final int abs__config_actionMenuItemAllCaps=0x7f070004;
         /**  Whether action menu items should obey the "withText" showAsAction
          flag. This may be set to false for situations where space is
          extremely limited. 
@@ -1134,68 +1134,68 @@ containing a value of this type.
          flag. This may be set to false for situations where space is
          extremely limited. 
          */
-        public static final int abs__config_allowActionMenuItemTextWithIcon=0x7f080005;
+        public static final int abs__config_allowActionMenuItemTextWithIcon=0x7f070005;
         /**  Sets whether menu shortcuts should be displayed on panel menus when
          a keyboard is present. 
          */
-        public static final int abs__config_showMenuShortcutsWhenKeyboardPresent=0x7f080003;
-        public static final int abs__split_action_bar_is_narrow=0x7f080001;
-        public static final int default_circle_indicator_centered=0x7f080008;
-        public static final int default_circle_indicator_snap=0x7f080009;
-        public static final int default_line_indicator_centered=0x7f08000a;
-        public static final int default_title_indicator_selected_bold=0x7f08000b;
-        public static final int default_underline_indicator_fades=0x7f08000c;
-        public static final int ga_autoActivityTracking=0x7f080006;
-        public static final int ga_reportUncaughtExceptions=0x7f080007;
+        public static final int abs__config_showMenuShortcutsWhenKeyboardPresent=0x7f070003;
+        public static final int abs__split_action_bar_is_narrow=0x7f070001;
+        public static final int default_circle_indicator_centered=0x7f070008;
+        public static final int default_circle_indicator_snap=0x7f070009;
+        public static final int default_line_indicator_centered=0x7f07000a;
+        public static final int default_title_indicator_selected_bold=0x7f07000b;
+        public static final int default_underline_indicator_fades=0x7f07000c;
+        public static final int ga_autoActivityTracking=0x7f070006;
+        public static final int ga_reportUncaughtExceptions=0x7f070007;
     }
     public static final class color {
-        public static final int ab_center=0x7f090012;
-        public static final int ab_end=0x7f090013;
-        public static final int ab_start=0x7f090011;
-        public static final int abs__background_holo_dark=0x7f090000;
-        public static final int abs__background_holo_light=0x7f090001;
-        public static final int abs__bright_foreground_disabled_holo_dark=0x7f090004;
-        public static final int abs__bright_foreground_disabled_holo_light=0x7f090005;
-        public static final int abs__bright_foreground_holo_dark=0x7f090002;
-        public static final int abs__bright_foreground_holo_light=0x7f090003;
-        public static final int abs__primary_text_disable_only_holo_dark=0x7f090029;
-        public static final int abs__primary_text_disable_only_holo_light=0x7f09002a;
-        public static final int abs__primary_text_holo_dark=0x7f09002b;
-        public static final int abs__primary_text_holo_light=0x7f09002c;
-        public static final int actbg=0x7f090006;
-        public static final int actionbarbg=0x7f090008;
-        public static final int clan_red=0x7f090015;
-        public static final int default_circle_indicator_fill_color=0x7f090020;
-        public static final int default_circle_indicator_page_color=0x7f090021;
-        public static final int default_circle_indicator_stroke_color=0x7f090022;
-        public static final int default_line_indicator_selected_color=0x7f090023;
-        public static final int default_line_indicator_unselected_color=0x7f090024;
-        public static final int default_title_indicator_footer_color=0x7f090025;
-        public static final int default_title_indicator_selected_color=0x7f090026;
-        public static final int default_title_indicator_text_color=0x7f090027;
-        public static final int default_underline_indicator_selected_color=0x7f090028;
-        public static final int ics_blue=0x7f09000a;
-        public static final int inputbg=0x7f090009;
-        public static final int link=0x7f09000d;
-        public static final int listheader=0x7f090017;
-        public static final int mainwhite=0x7f09000f;
-        public static final int neutral_yellow=0x7f090016;
-        public static final int oldactbg=0x7f090007;
-        public static final int omni_blue=0x7f090014;
-        public static final int subgrey=0x7f09000e;
-        public static final int subwhite=0x7f090010;
-        public static final int textshadow=0x7f09000b;
-        public static final int textshadow_light=0x7f09000c;
-        public static final int vpi__background_holo_dark=0x7f090018;
-        public static final int vpi__background_holo_light=0x7f090019;
-        public static final int vpi__bright_foreground_disabled_holo_dark=0x7f09001c;
-        public static final int vpi__bright_foreground_disabled_holo_light=0x7f09001d;
-        public static final int vpi__bright_foreground_holo_dark=0x7f09001a;
-        public static final int vpi__bright_foreground_holo_light=0x7f09001b;
-        public static final int vpi__bright_foreground_inverse_holo_dark=0x7f09001e;
-        public static final int vpi__bright_foreground_inverse_holo_light=0x7f09001f;
-        public static final int vpi__dark_theme=0x7f09002d;
-        public static final int vpi__light_theme=0x7f09002e;
+        public static final int ab_center=0x7f080012;
+        public static final int ab_end=0x7f080013;
+        public static final int ab_start=0x7f080011;
+        public static final int abs__background_holo_dark=0x7f080000;
+        public static final int abs__background_holo_light=0x7f080001;
+        public static final int abs__bright_foreground_disabled_holo_dark=0x7f080004;
+        public static final int abs__bright_foreground_disabled_holo_light=0x7f080005;
+        public static final int abs__bright_foreground_holo_dark=0x7f080002;
+        public static final int abs__bright_foreground_holo_light=0x7f080003;
+        public static final int abs__primary_text_disable_only_holo_dark=0x7f080029;
+        public static final int abs__primary_text_disable_only_holo_light=0x7f08002a;
+        public static final int abs__primary_text_holo_dark=0x7f08002b;
+        public static final int abs__primary_text_holo_light=0x7f08002c;
+        public static final int actbg=0x7f080006;
+        public static final int actionbarbg=0x7f080008;
+        public static final int clan_red=0x7f080015;
+        public static final int default_circle_indicator_fill_color=0x7f080020;
+        public static final int default_circle_indicator_page_color=0x7f080021;
+        public static final int default_circle_indicator_stroke_color=0x7f080022;
+        public static final int default_line_indicator_selected_color=0x7f080023;
+        public static final int default_line_indicator_unselected_color=0x7f080024;
+        public static final int default_title_indicator_footer_color=0x7f080025;
+        public static final int default_title_indicator_selected_color=0x7f080026;
+        public static final int default_title_indicator_text_color=0x7f080027;
+        public static final int default_underline_indicator_selected_color=0x7f080028;
+        public static final int ics_blue=0x7f08000a;
+        public static final int inputbg=0x7f080009;
+        public static final int link=0x7f08000d;
+        public static final int listheader=0x7f080017;
+        public static final int mainwhite=0x7f08000f;
+        public static final int neutral_yellow=0x7f080016;
+        public static final int oldactbg=0x7f080007;
+        public static final int omni_blue=0x7f080014;
+        public static final int subgrey=0x7f08000e;
+        public static final int subwhite=0x7f080010;
+        public static final int textshadow=0x7f08000b;
+        public static final int textshadow_light=0x7f08000c;
+        public static final int vpi__background_holo_dark=0x7f080018;
+        public static final int vpi__background_holo_light=0x7f080019;
+        public static final int vpi__bright_foreground_disabled_holo_dark=0x7f08001c;
+        public static final int vpi__bright_foreground_disabled_holo_light=0x7f08001d;
+        public static final int vpi__bright_foreground_holo_dark=0x7f08001a;
+        public static final int vpi__bright_foreground_holo_light=0x7f08001b;
+        public static final int vpi__bright_foreground_inverse_holo_dark=0x7f08001e;
+        public static final int vpi__bright_foreground_inverse_holo_light=0x7f08001f;
+        public static final int vpi__dark_theme=0x7f08002d;
+        public static final int vpi__light_theme=0x7f08002e;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -1207,7 +1207,7 @@ containing a value of this type.
  Default height of an action bar. 
  Default height of an action bar. 
          */
-        public static final int abs__action_bar_default_height=0x7f0a0001;
+        public static final int abs__action_bar_default_height=0x7f090001;
         /**  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
@@ -1217,7 +1217,7 @@ containing a value of this type.
  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
          */
-        public static final int abs__action_bar_icon_vertical_padding=0x7f0a0002;
+        public static final int abs__action_bar_icon_vertical_padding=0x7f090002;
         /**  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
@@ -1227,7 +1227,7 @@ containing a value of this type.
  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_bottom_margin=0x7f0a0006;
+        public static final int abs__action_bar_subtitle_bottom_margin=0x7f090006;
         /**  Text size for action bar subtitles 
  Text size for action bar subtitles 
  Text size for action bar subtitles 
@@ -1237,7 +1237,7 @@ containing a value of this type.
  Text size for action bar subtitles 
  Text size for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_text_size=0x7f0a0004;
+        public static final int abs__action_bar_subtitle_text_size=0x7f090004;
         /**  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
@@ -1247,7 +1247,7 @@ containing a value of this type.
  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_top_margin=0x7f0a0005;
+        public static final int abs__action_bar_subtitle_top_margin=0x7f090005;
         /**  Text size for action bar titles 
  Text size for action bar titles 
  Text size for action bar titles 
@@ -1257,18 +1257,18 @@ containing a value of this type.
  Text size for action bar titles 
  Text size for action bar titles 
          */
-        public static final int abs__action_bar_title_text_size=0x7f0a0003;
+        public static final int abs__action_bar_title_text_size=0x7f090003;
         /**  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
          */
-        public static final int abs__action_button_min_width=0x7f0a0007;
+        public static final int abs__action_button_min_width=0x7f090007;
         /**  The maximum width we would prefer dialogs to be.  0 if there is no
          maximum (let them grow as large as the screen).  Actual values are
          specified for -large and -xlarge configurations. 
          */
-        public static final int abs__config_prefDialogWidth=0x7f0a0000;
+        public static final int abs__config_prefDialogWidth=0x7f090000;
         /**  The platform's desired minimum size for a dialog's width when it
          is along the major axis (that is the screen is landscape).  This may
          be either a fraction or a dimension. 
@@ -1276,7 +1276,7 @@ containing a value of this type.
          is along the major axis (that is the screen is landscape).  This may
          be either a fraction or a dimension. 
          */
-        public static final int abs__dialog_min_width_major=0x7f0a000d;
+        public static final int abs__dialog_min_width_major=0x7f09000d;
         /**  The platform's desired minimum size for a dialog's width when it
          is along the minor axis (that is the screen is portrait).  This may
          be either a fraction or a dimension. 
@@ -1284,39 +1284,39 @@ containing a value of this type.
          is along the minor axis (that is the screen is portrait).  This may
          be either a fraction or a dimension. 
          */
-        public static final int abs__dialog_min_width_minor=0x7f0a000e;
+        public static final int abs__dialog_min_width_minor=0x7f09000e;
         /**  Width of the icon in a dropdown list 
          */
-        public static final int abs__dropdownitem_icon_width=0x7f0a000a;
+        public static final int abs__dropdownitem_icon_width=0x7f09000a;
         /**  Text padding for dropdown items 
          */
-        public static final int abs__dropdownitem_text_padding_left=0x7f0a0008;
+        public static final int abs__dropdownitem_text_padding_left=0x7f090008;
         /**  Text padding for dropdown items 
          */
-        public static final int abs__dropdownitem_text_padding_right=0x7f0a0009;
+        public static final int abs__dropdownitem_text_padding_right=0x7f090009;
         /**  Preferred width of the search view. 
          */
-        public static final int abs__search_view_preferred_width=0x7f0a000c;
+        public static final int abs__search_view_preferred_width=0x7f09000c;
         /**  Minimum width of the search view text entry area. 
          */
-        public static final int abs__search_view_text_min_width=0x7f0a000b;
-        public static final int app_defaultsize_h=0x7f0a0010;
-        public static final int app_defaultsize_w=0x7f0a000f;
-        public static final int app_minimumsize_h=0x7f0a0012;
-        public static final int app_minimumsize_w=0x7f0a0011;
-        public static final int default_circle_indicator_radius=0x7f0a0013;
-        public static final int default_circle_indicator_stroke_width=0x7f0a0014;
-        public static final int default_line_indicator_gap_width=0x7f0a0016;
-        public static final int default_line_indicator_line_width=0x7f0a0015;
-        public static final int default_line_indicator_stroke_width=0x7f0a0017;
-        public static final int default_title_indicator_clip_padding=0x7f0a0018;
-        public static final int default_title_indicator_footer_indicator_height=0x7f0a001a;
-        public static final int default_title_indicator_footer_indicator_underline_padding=0x7f0a001b;
-        public static final int default_title_indicator_footer_line_height=0x7f0a0019;
-        public static final int default_title_indicator_footer_padding=0x7f0a001c;
-        public static final int default_title_indicator_text_size=0x7f0a001d;
-        public static final int default_title_indicator_title_padding=0x7f0a001e;
-        public static final int default_title_indicator_top_padding=0x7f0a001f;
+        public static final int abs__search_view_text_min_width=0x7f09000b;
+        public static final int app_defaultsize_h=0x7f090010;
+        public static final int app_defaultsize_w=0x7f09000f;
+        public static final int app_minimumsize_h=0x7f090012;
+        public static final int app_minimumsize_w=0x7f090011;
+        public static final int default_circle_indicator_radius=0x7f090013;
+        public static final int default_circle_indicator_stroke_width=0x7f090014;
+        public static final int default_line_indicator_gap_width=0x7f090016;
+        public static final int default_line_indicator_line_width=0x7f090015;
+        public static final int default_line_indicator_stroke_width=0x7f090017;
+        public static final int default_title_indicator_clip_padding=0x7f090018;
+        public static final int default_title_indicator_footer_indicator_height=0x7f09001a;
+        public static final int default_title_indicator_footer_indicator_underline_padding=0x7f09001b;
+        public static final int default_title_indicator_footer_line_height=0x7f090019;
+        public static final int default_title_indicator_footer_padding=0x7f09001c;
+        public static final int default_title_indicator_text_size=0x7f09001d;
+        public static final int default_title_indicator_title_padding=0x7f09001e;
+        public static final int default_title_indicator_top_padding=0x7f09001f;
     }
     public static final class drawable {
         public static final int a_books=0x7f020000;
@@ -1545,169 +1545,169 @@ containing a value of this type.
         public static final int vpi__tab_unselected_pressed_holo=0x7f0200df;
     }
     public static final class id {
-        public static final int abs__action_bar=0x7f070028;
-        public static final int abs__action_bar_container=0x7f070027;
-        public static final int abs__action_bar_subtitle=0x7f070019;
-        public static final int abs__action_bar_title=0x7f070018;
-        public static final int abs__action_context_bar=0x7f070029;
-        public static final int abs__action_menu_divider=0x7f07000c;
-        public static final int abs__action_menu_presenter=0x7f07000d;
-        public static final int abs__action_mode_bar=0x7f07002d;
-        public static final int abs__action_mode_bar_stub=0x7f07002c;
-        public static final int abs__action_mode_close_button=0x7f07001c;
-        public static final int abs__activity_chooser_view_content=0x7f07001d;
-        public static final int abs__checkbox=0x7f070024;
-        public static final int abs__content=0x7f07002a;
-        public static final int abs__default_activity_button=0x7f070020;
-        public static final int abs__expand_activities_button=0x7f07001e;
-        public static final int abs__home=0x7f07000a;
-        public static final int abs__icon=0x7f070022;
-        public static final int abs__image=0x7f07001f;
-        public static final int abs__imageButton=0x7f07001a;
-        public static final int abs__list_item=0x7f070021;
-        public static final int abs__progress_circular=0x7f07000e;
-        public static final int abs__progress_horizontal=0x7f07000f;
-        public static final int abs__radio=0x7f070026;
-        public static final int abs__search_badge=0x7f070030;
-        public static final int abs__search_bar=0x7f07002f;
-        public static final int abs__search_button=0x7f070031;
-        public static final int abs__search_close_btn=0x7f070036;
-        public static final int abs__search_edit_frame=0x7f070032;
-        public static final int abs__search_go_btn=0x7f070038;
-        public static final int abs__search_mag_icon=0x7f070033;
-        public static final int abs__search_plate=0x7f070034;
-        public static final int abs__search_src_text=0x7f070035;
-        public static final int abs__search_voice_btn=0x7f070039;
-        public static final int abs__shortcut=0x7f070025;
-        public static final int abs__split_action_bar=0x7f07002b;
-        public static final int abs__submit_area=0x7f070037;
-        public static final int abs__textButton=0x7f07001b;
-        public static final int abs__title=0x7f070023;
-        public static final int abs__up=0x7f07000b;
-        public static final int add_friend=0x7f07006b;
-        public static final int addcharacter=0x7f07006f;
-        public static final int addnote=0x7f07006d;
-        public static final int addpost=0x7f07006e;
-        public static final int aorb=0x7f070094;
-        public static final int aospeak=0x7f070080;
-        public static final int aou=0x7f070092;
-        public static final int aoumarkers=0x7f070097;
-        public static final int atlas=0x7f070093;
-        public static final int attacker_name=0x7f070087;
-        public static final int attacker_org=0x7f070086;
-        public static final int attacker_title=0x7f070085;
-        public static final int baseview=0x7f07005d;
-        public static final int bevel=0x7f070011;
-        public static final int bottom=0x7f070016;
-        public static final int buttonbox=0x7f07004f;
-        public static final int buttons=0x7f070042;
-        public static final int channel=0x7f070067;
-        public static final int classes=0x7f070048;
-        public static final int close=0x7f070040;
-        public static final int color_picker_view=0x7f070063;
-        public static final int connect=0x7f070091;
-        public static final int currentql=0x7f07004d;
-        public static final int datafragment=0x7f070062;
-        public static final int date=0x7f070044;
-        public static final int defender_org=0x7f070089;
-        public static final int defender_title=0x7f070088;
-        public static final int disableHome=0x7f070009;
-        public static final int edit_query=0x7f07002e;
-        public static final int extras=0x7f070050;
-        public static final int faction=0x7f070047;
-        public static final int footer=0x7f070054;
-        public static final int forum=0x7f070043;
-        public static final int fragmentpager=0x7f07005f;
-        public static final int friendlist=0x7f07006c;
-        public static final int friendsfragment=0x7f07006a;
-        public static final int from=0x7f07008f;
-        public static final int grid=0x7f07007c;
-        public static final int grid_item_icon=0x7f07007d;
-        public static final int grid_item_text=0x7f07007e;
-        public static final int gsp_player=0x7f070075;
-        public static final int gspbuttons=0x7f070078;
-        public static final int gspcalendar=0x7f070059;
-        public static final int gspload=0x7f07007a;
-        public static final int gsplogo=0x7f070077;
-        public static final int gspplay=0x7f070079;
-        public static final int gsptext=0x7f07007b;
-        public static final int guides=0x7f070051;
-        public static final int header=0x7f070071;
-        public static final int homeAsUp=0x7f070006;
-        public static final int icon=0x7f07007f;
-        public static final int icon2=0x7f07008d;
-        public static final int iconholder=0x7f07008b;
-        public static final int iconholder2=0x7f07008c;
-        public static final int info=0x7f07004a;
-        public static final int input=0x7f070068;
-        public static final int inputbar=0x7f070066;
-        public static final int level=0x7f070049;
-        public static final int listMode=0x7f070002;
-        public static final int login=0x7f07003c;
-        public static final int market=0x7f070056;
-        public static final int message=0x7f07008e;
-        public static final int messagelist=0x7f070069;
-        public static final int messagepost=0x7f07008a;
-        public static final int miter=0x7f070010;
-        public static final int new_color_panel=0x7f070065;
-        public static final int none=0x7f070013;
-        public static final int normal=0x7f070001;
-        public static final int notloggedin=0x7f070073;
-        public static final int old_color_panel=0x7f070064;
-        public static final int overlay=0x7f070072;
-        public static final int password=0x7f07003b;
-        public static final int postlist=0x7f070070;
-        public static final int preferences=0x7f070096;
-        public static final int profiletext=0x7f07003e;
-        public static final int qlbox=0x7f07004c;
-        public static final int recipes=0x7f070052;
-        public static final int register=0x7f07003d;
-        public static final int rknlogin=0x7f070074;
-        public static final int rknmarkers=0x7f070098;
-        public static final int round=0x7f070012;
-        public static final int savepassword=0x7f070058;
-        public static final int scroll=0x7f070057;
-        public static final int search=0x7f07005a;
-        public static final int seeker=0x7f07004e;
-        public static final int separator1=0x7f070060;
-        public static final int separator2=0x7f070061;
-        public static final int share=0x7f07009a;
-        public static final int showCustom=0x7f070008;
-        public static final int showHome=0x7f070005;
-        public static final int showTitle=0x7f070007;
-        public static final int site=0x7f070082;
-        public static final int sites=0x7f070041;
-        public static final int status=0x7f070055;
-        public static final int tabMode=0x7f070003;
-        public static final int target=0x7f070081;
-        public static final int text=0x7f070045;
-        public static final int time=0x7f070090;
-        public static final int timestamp=0x7f070084;
-        public static final int title=0x7f070046;
-        public static final int titles=0x7f07005e;
-        public static final int top=0x7f070017;
-        public static final int tower=0x7f070095;
-        public static final int triangle=0x7f070014;
-        public static final int type=0x7f07005b;
-        public static final int underline=0x7f070015;
-        public static final int update=0x7f070099;
-        public static final int useLogo=0x7f070004;
-        public static final int username=0x7f07003a;
-        public static final int visualizer=0x7f070076;
-        public static final int web=0x7f070053;
-        public static final int webbrowser=0x7f07003f;
-        public static final int webview=0x7f07004b;
-        public static final int whois=0x7f07005c;
-        public static final int wrap_content=0x7f070000;
-        public static final int zone=0x7f070083;
+        public static final int abs__action_bar=0x7f0b0028;
+        public static final int abs__action_bar_container=0x7f0b0027;
+        public static final int abs__action_bar_subtitle=0x7f0b0019;
+        public static final int abs__action_bar_title=0x7f0b0018;
+        public static final int abs__action_context_bar=0x7f0b0029;
+        public static final int abs__action_menu_divider=0x7f0b0002;
+        public static final int abs__action_menu_presenter=0x7f0b0003;
+        public static final int abs__action_mode_bar=0x7f0b002d;
+        public static final int abs__action_mode_bar_stub=0x7f0b002c;
+        public static final int abs__action_mode_close_button=0x7f0b001c;
+        public static final int abs__activity_chooser_view_content=0x7f0b001d;
+        public static final int abs__checkbox=0x7f0b0024;
+        public static final int abs__content=0x7f0b002a;
+        public static final int abs__default_activity_button=0x7f0b0020;
+        public static final int abs__expand_activities_button=0x7f0b001e;
+        public static final int abs__home=0x7f0b0000;
+        public static final int abs__icon=0x7f0b0022;
+        public static final int abs__image=0x7f0b001f;
+        public static final int abs__imageButton=0x7f0b001a;
+        public static final int abs__list_item=0x7f0b0021;
+        public static final int abs__progress_circular=0x7f0b0004;
+        public static final int abs__progress_horizontal=0x7f0b0005;
+        public static final int abs__radio=0x7f0b0026;
+        public static final int abs__search_badge=0x7f0b0030;
+        public static final int abs__search_bar=0x7f0b002f;
+        public static final int abs__search_button=0x7f0b0031;
+        public static final int abs__search_close_btn=0x7f0b0036;
+        public static final int abs__search_edit_frame=0x7f0b0032;
+        public static final int abs__search_go_btn=0x7f0b0038;
+        public static final int abs__search_mag_icon=0x7f0b0033;
+        public static final int abs__search_plate=0x7f0b0034;
+        public static final int abs__search_src_text=0x7f0b0035;
+        public static final int abs__search_voice_btn=0x7f0b0039;
+        public static final int abs__shortcut=0x7f0b0025;
+        public static final int abs__split_action_bar=0x7f0b002b;
+        public static final int abs__submit_area=0x7f0b0037;
+        public static final int abs__textButton=0x7f0b001b;
+        public static final int abs__title=0x7f0b0023;
+        public static final int abs__up=0x7f0b0001;
+        public static final int add_friend=0x7f0b006b;
+        public static final int addcharacter=0x7f0b006f;
+        public static final int addnote=0x7f0b006d;
+        public static final int addpost=0x7f0b006e;
+        public static final int aorb=0x7f0b0094;
+        public static final int aospeak=0x7f0b0080;
+        public static final int aou=0x7f0b0092;
+        public static final int aoumarkers=0x7f0b0097;
+        public static final int atlas=0x7f0b0093;
+        public static final int attacker_name=0x7f0b0087;
+        public static final int attacker_org=0x7f0b0086;
+        public static final int attacker_title=0x7f0b0085;
+        public static final int baseview=0x7f0b005d;
+        public static final int bevel=0x7f0b0010;
+        public static final int bottom=0x7f0b0016;
+        public static final int buttonbox=0x7f0b004f;
+        public static final int buttons=0x7f0b0042;
+        public static final int channel=0x7f0b0067;
+        public static final int classes=0x7f0b0048;
+        public static final int close=0x7f0b0040;
+        public static final int color_picker_view=0x7f0b0063;
+        public static final int connect=0x7f0b0091;
+        public static final int currentql=0x7f0b004d;
+        public static final int datafragment=0x7f0b0062;
+        public static final int date=0x7f0b0044;
+        public static final int defender_org=0x7f0b0089;
+        public static final int defender_title=0x7f0b0088;
+        public static final int disableHome=0x7f0b000a;
+        public static final int edit_query=0x7f0b002e;
+        public static final int extras=0x7f0b0050;
+        public static final int faction=0x7f0b0047;
+        public static final int footer=0x7f0b0054;
+        public static final int forum=0x7f0b0043;
+        public static final int fragmentpager=0x7f0b005f;
+        public static final int friendlist=0x7f0b006c;
+        public static final int friendsfragment=0x7f0b006a;
+        public static final int from=0x7f0b008f;
+        public static final int grid=0x7f0b007c;
+        public static final int grid_item_icon=0x7f0b007d;
+        public static final int grid_item_text=0x7f0b007e;
+        public static final int gsp_player=0x7f0b0075;
+        public static final int gspbuttons=0x7f0b0078;
+        public static final int gspcalendar=0x7f0b0059;
+        public static final int gspload=0x7f0b007a;
+        public static final int gsplogo=0x7f0b0077;
+        public static final int gspplay=0x7f0b0079;
+        public static final int gsptext=0x7f0b007b;
+        public static final int guides=0x7f0b0051;
+        public static final int header=0x7f0b0071;
+        public static final int homeAsUp=0x7f0b000b;
+        public static final int icon=0x7f0b007f;
+        public static final int icon2=0x7f0b008d;
+        public static final int iconholder=0x7f0b008b;
+        public static final int iconholder2=0x7f0b008c;
+        public static final int info=0x7f0b004a;
+        public static final int input=0x7f0b0068;
+        public static final int inputbar=0x7f0b0066;
+        public static final int level=0x7f0b0049;
+        public static final int listMode=0x7f0b0007;
+        public static final int login=0x7f0b003c;
+        public static final int market=0x7f0b0056;
+        public static final int message=0x7f0b008e;
+        public static final int messagelist=0x7f0b0069;
+        public static final int messagepost=0x7f0b008a;
+        public static final int miter=0x7f0b0011;
+        public static final int new_color_panel=0x7f0b0065;
+        public static final int none=0x7f0b0013;
+        public static final int normal=0x7f0b0008;
+        public static final int notloggedin=0x7f0b0073;
+        public static final int old_color_panel=0x7f0b0064;
+        public static final int overlay=0x7f0b0072;
+        public static final int password=0x7f0b003b;
+        public static final int postlist=0x7f0b0070;
+        public static final int preferences=0x7f0b0096;
+        public static final int profiletext=0x7f0b003e;
+        public static final int qlbox=0x7f0b004c;
+        public static final int recipes=0x7f0b0052;
+        public static final int register=0x7f0b003d;
+        public static final int rknlogin=0x7f0b0074;
+        public static final int rknmarkers=0x7f0b0098;
+        public static final int round=0x7f0b0012;
+        public static final int savepassword=0x7f0b0058;
+        public static final int scroll=0x7f0b0057;
+        public static final int search=0x7f0b005a;
+        public static final int seeker=0x7f0b004e;
+        public static final int separator1=0x7f0b0060;
+        public static final int separator2=0x7f0b0061;
+        public static final int share=0x7f0b009a;
+        public static final int showCustom=0x7f0b000c;
+        public static final int showHome=0x7f0b000d;
+        public static final int showTitle=0x7f0b000e;
+        public static final int site=0x7f0b0082;
+        public static final int sites=0x7f0b0041;
+        public static final int status=0x7f0b0055;
+        public static final int tabMode=0x7f0b0009;
+        public static final int target=0x7f0b0081;
+        public static final int text=0x7f0b0045;
+        public static final int time=0x7f0b0090;
+        public static final int timestamp=0x7f0b0084;
+        public static final int title=0x7f0b0046;
+        public static final int titles=0x7f0b005e;
+        public static final int top=0x7f0b0017;
+        public static final int tower=0x7f0b0095;
+        public static final int triangle=0x7f0b0014;
+        public static final int type=0x7f0b005b;
+        public static final int underline=0x7f0b0015;
+        public static final int update=0x7f0b0099;
+        public static final int useLogo=0x7f0b000f;
+        public static final int username=0x7f0b003a;
+        public static final int visualizer=0x7f0b0076;
+        public static final int web=0x7f0b0053;
+        public static final int webbrowser=0x7f0b003f;
+        public static final int webview=0x7f0b004b;
+        public static final int whois=0x7f0b005c;
+        public static final int wrap_content=0x7f0b0006;
+        public static final int zone=0x7f0b0083;
     }
     public static final class integer {
-        public static final int abs__max_action_buttons=0x7f0b0000;
-        public static final int default_circle_indicator_orientation=0x7f0b0001;
-        public static final int default_title_indicator_footer_indicator_style=0x7f0b0002;
-        public static final int default_title_indicator_line_position=0x7f0b0003;
-        public static final int default_underline_indicator_fade_delay=0x7f0b0004;
-        public static final int default_underline_indicator_fade_length=0x7f0b0005;
+        public static final int abs__max_action_buttons=0x7f0a0000;
+        public static final int default_circle_indicator_orientation=0x7f0a0001;
+        public static final int default_title_indicator_footer_indicator_style=0x7f0a0002;
+        public static final int default_title_indicator_line_position=0x7f0a0003;
+        public static final int default_underline_indicator_fade_delay=0x7f0a0004;
+        public static final int default_underline_indicator_fade_length=0x7f0a0005;
     }
     public static final class layout {
         public static final int abs__action_bar_home=0x7f030000;
@@ -2229,8 +2229,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CirclePageIndicator_android_background com.rubika.aotalk:android_background}</code></td><td> View background </td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_android_orientation com.rubika.aotalk:android_orientation}</code></td><td> Orientation of the indicator.</td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_android_orientation android:orientation}</code></td><td> Orientation of the indicator.</td></tr>
            <tr><td><code>{@link #CirclePageIndicator_centered com.rubika.aotalk:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
            <tr><td><code>{@link #CirclePageIndicator_fillColor com.rubika.aotalk:fillColor}</code></td><td> Color of the filled circle that represents the current page.</td></tr>
            <tr><td><code>{@link #CirclePageIndicator_pageColor com.rubika.aotalk:pageColor}</code></td><td> Color of the filled circles that represents pages.</td></tr>
@@ -2258,16 +2258,18 @@ containing a value of this type.
           <p>
           @attr description
            View background 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_background}.
-          @attr name android:android_background
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#background}.
+          @attr name android:background
         */
         public static final int CirclePageIndicator_android_background = 1;
         /**
           <p>
           @attr description
            Orientation of the indicator. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_orientation}.
-          @attr name android:android_orientation
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#orientation}.
+          @attr name android:orientation
         */
         public static final int CirclePageIndicator_android_orientation = 0;
         /**
@@ -2283,7 +2285,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:centered
+          @attr name com.rubika.aotalk:centered
         */
         public static final int CirclePageIndicator_centered = 2;
         /**
@@ -2300,7 +2302,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:fillColor
+          @attr name com.rubika.aotalk:fillColor
         */
         public static final int CirclePageIndicator_fillColor = 4;
         /**
@@ -2317,7 +2319,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:pageColor
+          @attr name com.rubika.aotalk:pageColor
         */
         public static final int CirclePageIndicator_pageColor = 5;
         /**
@@ -2335,7 +2337,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:radius
+          @attr name com.rubika.aotalk:radius
         */
         public static final int CirclePageIndicator_radius = 6;
         /**
@@ -2351,7 +2353,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:snap
+          @attr name com.rubika.aotalk:snap
         */
         public static final int CirclePageIndicator_snap = 7;
         /**
@@ -2368,7 +2370,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:strokeColor
+          @attr name com.rubika.aotalk:strokeColor
         */
         public static final int CirclePageIndicator_strokeColor = 8;
         /**
@@ -2386,7 +2388,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:strokeWidth
+          @attr name com.rubika.aotalk:strokeWidth
         */
         public static final int CirclePageIndicator_strokeWidth = 3;
         /** Attributes that can be used with a LinePageIndicator.
@@ -2395,7 +2397,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinePageIndicator_android_background com.rubika.aotalk:android_background}</code></td><td> View background </td></tr>
+           <tr><td><code>{@link #LinePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
            <tr><td><code>{@link #LinePageIndicator_centered com.rubika.aotalk:centered}</code></td><td> Whether or not the indicators should be centered.</td></tr>
            <tr><td><code>{@link #LinePageIndicator_gapWidth com.rubika.aotalk:gapWidth}</code></td><td> Width of the gap between each indicator line.</td></tr>
            <tr><td><code>{@link #LinePageIndicator_lineWidth com.rubika.aotalk:lineWidth}</code></td><td> Width of each indicator line.</td></tr>
@@ -2419,8 +2421,9 @@ containing a value of this type.
           <p>
           @attr description
            View background 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_background}.
-          @attr name android:android_background
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#background}.
+          @attr name android:background
         */
         public static final int LinePageIndicator_android_background = 0;
         /**
@@ -2436,7 +2439,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:centered
+          @attr name com.rubika.aotalk:centered
         */
         public static final int LinePageIndicator_centered = 1;
         /**
@@ -2454,7 +2457,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:gapWidth
+          @attr name com.rubika.aotalk:gapWidth
         */
         public static final int LinePageIndicator_gapWidth = 6;
         /**
@@ -2472,7 +2475,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:lineWidth
+          @attr name com.rubika.aotalk:lineWidth
         */
         public static final int LinePageIndicator_lineWidth = 5;
         /**
@@ -2489,7 +2492,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:selectedColor
+          @attr name com.rubika.aotalk:selectedColor
         */
         public static final int LinePageIndicator_selectedColor = 2;
         /**
@@ -2507,7 +2510,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:strokeWidth
+          @attr name com.rubika.aotalk:strokeWidth
         */
         public static final int LinePageIndicator_strokeWidth = 3;
         /**
@@ -2524,7 +2527,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:unselectedColor
+          @attr name com.rubika.aotalk:unselectedColor
         */
         public static final int LinePageIndicator_unselectedColor = 4;
         /**  Attributes used to style the Action Bar. 
@@ -2592,7 +2595,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:background
+          @attr name com.rubika.aotalk:background
         */
         public static final int SherlockActionBar_background = 2;
         /**
@@ -2606,7 +2609,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:backgroundSplit
+          @attr name com.rubika.aotalk:backgroundSplit
         */
         public static final int SherlockActionBar_backgroundSplit = 3;
         /**
@@ -2620,7 +2623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:backgroundStacked
+          @attr name com.rubika.aotalk:backgroundStacked
         */
         public static final int SherlockActionBar_backgroundStacked = 12;
         /**
@@ -2632,7 +2635,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:customNavigationLayout
+          @attr name com.rubika.aotalk:customNavigationLayout
         */
         public static final int SherlockActionBar_customNavigationLayout = 13;
         /**
@@ -2655,7 +2658,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name android:displayOptions
+          @attr name com.rubika.aotalk:displayOptions
         */
         public static final int SherlockActionBar_displayOptions = 7;
         /**
@@ -2667,7 +2670,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:divider
+          @attr name com.rubika.aotalk:divider
         */
         public static final int SherlockActionBar_divider = 5;
         /**
@@ -2685,7 +2688,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:height
+          @attr name com.rubika.aotalk:height
         */
         public static final int SherlockActionBar_height = 4;
         /**
@@ -2697,7 +2700,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:homeLayout
+          @attr name com.rubika.aotalk:homeLayout
         */
         public static final int SherlockActionBar_homeLayout = 14;
         /**
@@ -2709,7 +2712,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:icon
+          @attr name com.rubika.aotalk:icon
         */
         public static final int SherlockActionBar_icon = 10;
         /**
@@ -2721,7 +2724,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:indeterminateProgressStyle
+          @attr name com.rubika.aotalk:indeterminateProgressStyle
         */
         public static final int SherlockActionBar_indeterminateProgressStyle = 16;
         /**
@@ -2740,7 +2743,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:itemPadding
+          @attr name com.rubika.aotalk:itemPadding
         */
         public static final int SherlockActionBar_itemPadding = 18;
         /**
@@ -2752,7 +2755,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:logo
+          @attr name com.rubika.aotalk:logo
         */
         public static final int SherlockActionBar_logo = 11;
         /**
@@ -2772,7 +2775,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>tabMode</code></td><td>2</td><td> The action bar will use a series of horizontal tabs for navigation. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name android:navigationMode
+          @attr name com.rubika.aotalk:navigationMode
         */
         public static final int SherlockActionBar_navigationMode = 6;
         /**
@@ -2790,7 +2793,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:progressBarPadding
+          @attr name com.rubika.aotalk:progressBarPadding
         */
         public static final int SherlockActionBar_progressBarPadding = 17;
         /**
@@ -2802,7 +2805,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:progressBarStyle
+          @attr name com.rubika.aotalk:progressBarStyle
         */
         public static final int SherlockActionBar_progressBarStyle = 15;
         /**
@@ -2818,7 +2821,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:subtitle
+          @attr name com.rubika.aotalk:subtitle
         */
         public static final int SherlockActionBar_subtitle = 9;
         /**
@@ -2830,7 +2833,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:subtitleTextStyle
+          @attr name com.rubika.aotalk:subtitleTextStyle
         */
         public static final int SherlockActionBar_subtitleTextStyle = 1;
         /**
@@ -2846,7 +2849,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:title
+          @attr name com.rubika.aotalk:title
         */
         public static final int SherlockActionBar_title = 8;
         /**
@@ -2858,7 +2861,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:titleTextStyle
+          @attr name com.rubika.aotalk:titleTextStyle
         */
         public static final int SherlockActionBar_titleTextStyle = 0;
         /** Attributes that can be used with a SherlockActionMenuItemView.
@@ -2867,7 +2870,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockActionMenuItemView_android_minWidth com.rubika.aotalk:android_minWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SherlockActionMenuItemView_android_minWidth android:minWidth}</code></td><td></td></tr>
            </table>
            @see #SherlockActionMenuItemView_android_minWidth
          */
@@ -2875,9 +2878,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x0101013f
         };
         /**
-          <p>This symbol is the offset where the {@link com.rubika.aotalk.R.attr#android_minWidth}
+          <p>This symbol is the offset where the {@link android.R.attr#minWidth}
           attribute's value can be found in the {@link #SherlockActionMenuItemView} array.
-          @attr name android:android_minWidth
+          @attr name android:minWidth
         */
         public static final int SherlockActionMenuItemView_android_minWidth = 0;
         /** Attributes that can be used with a SherlockActionMode.
@@ -2913,7 +2916,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:background
+          @attr name com.rubika.aotalk:background
         */
         public static final int SherlockActionMode_background = 2;
         /**
@@ -2927,7 +2930,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:backgroundSplit
+          @attr name com.rubika.aotalk:backgroundSplit
         */
         public static final int SherlockActionMode_backgroundSplit = 3;
         /**
@@ -2945,7 +2948,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:height
+          @attr name com.rubika.aotalk:height
         */
         public static final int SherlockActionMode_height = 4;
         /**
@@ -2957,7 +2960,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:subtitleTextStyle
+          @attr name com.rubika.aotalk:subtitleTextStyle
         */
         public static final int SherlockActionMode_subtitleTextStyle = 1;
         /**
@@ -2969,7 +2972,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:titleTextStyle
+          @attr name com.rubika.aotalk:titleTextStyle
         */
         public static final int SherlockActionMode_titleTextStyle = 0;
         /** Attributes that can be used with a SherlockActivityChooserView.
@@ -2978,7 +2981,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockActivityChooserView_android_background com.rubika.aotalk:android_background}</code></td><td></td></tr>
+           <tr><td><code>{@link #SherlockActivityChooserView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #SherlockActivityChooserView_expandActivityOverflowButtonDrawable com.rubika.aotalk:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
            <tr><td><code>{@link #SherlockActivityChooserView_initialActivityCount com.rubika.aotalk:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
            </table>
@@ -2990,9 +2993,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x010100d4, 0x7f01005e, 0x7f01005f
         };
         /**
-          <p>This symbol is the offset where the {@link com.rubika.aotalk.R.attr#android_background}
+          <p>This symbol is the offset where the {@link android.R.attr#background}
           attribute's value can be found in the {@link #SherlockActivityChooserView} array.
-          @attr name android:android_background
+          @attr name android:background
         */
         public static final int SherlockActivityChooserView_android_background = 0;
         /**
@@ -3009,7 +3012,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:expandActivityOverflowButtonDrawable
+          @attr name com.rubika.aotalk:expandActivityOverflowButtonDrawable
         */
         public static final int SherlockActivityChooserView_expandActivityOverflowButtonDrawable = 2;
         /**
@@ -3025,7 +3028,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:initialActivityCount
+          @attr name com.rubika.aotalk:initialActivityCount
         */
         public static final int SherlockActivityChooserView_initialActivityCount = 1;
         /**  Base attributes that are available to all groups. 
@@ -3034,12 +3037,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_checkableBehavior com.rubika.aotalk:android_checkableBehavior}</code></td><td> Whether the items are capable of displaying a check mark.</td></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_enabled com.rubika.aotalk:android_enabled}</code></td><td> Whether the items are enabled.</td></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_id com.rubika.aotalk:android_id}</code></td><td> The ID of the group.</td></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_menuCategory com.rubika.aotalk:android_menuCategory}</code></td><td> The category applied to all items within this group.</td></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_orderInCategory com.rubika.aotalk:android_orderInCategory}</code></td><td> The order within the category applied to all items within this group.</td></tr>
-           <tr><td><code>{@link #SherlockMenuGroup_android_visible com.rubika.aotalk:android_visible}</code></td><td> Whether the items are shown/visible.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_checkableBehavior android:checkableBehavior}</code></td><td> Whether the items are capable of displaying a check mark.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_enabled android:enabled}</code></td><td> Whether the items are enabled.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_id android:id}</code></td><td> The ID of the group.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_menuCategory android:menuCategory}</code></td><td> The category applied to all items within this group.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_orderInCategory android:orderInCategory}</code></td><td> The order within the category applied to all items within this group.</td></tr>
+           <tr><td><code>{@link #SherlockMenuGroup_android_visible android:visible}</code></td><td> Whether the items are shown/visible.</td></tr>
            </table>
            @see #SherlockMenuGroup_android_checkableBehavior
            @see #SherlockMenuGroup_android_enabled
@@ -3056,24 +3059,27 @@ containing a value of this type.
           <p>
           @attr description
            Whether the items are capable of displaying a check mark. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_checkableBehavior}.
-          @attr name android:android_checkableBehavior
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#checkableBehavior}.
+          @attr name android:checkableBehavior
         */
         public static final int SherlockMenuGroup_android_checkableBehavior = 5;
         /**
           <p>
           @attr description
            Whether the items are enabled. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_enabled}.
-          @attr name android:android_enabled
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#enabled}.
+          @attr name android:enabled
         */
         public static final int SherlockMenuGroup_android_enabled = 0;
         /**
           <p>
           @attr description
            The ID of the group. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_id}.
-          @attr name android:android_id
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#id}.
+          @attr name android:id
         */
         public static final int SherlockMenuGroup_android_id = 1;
         /**
@@ -3081,8 +3087,9 @@ containing a value of this type.
           @attr description
            The category applied to all items within this group.
              (This will be or'ed with the orderInCategory attribute.) 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_menuCategory}.
-          @attr name android:android_menuCategory
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#menuCategory}.
+          @attr name android:menuCategory
         */
         public static final int SherlockMenuGroup_android_menuCategory = 3;
         /**
@@ -3090,16 +3097,18 @@ containing a value of this type.
           @attr description
            The order within the category applied to all items within this group.
              (This will be or'ed with the category attribute.) 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_orderInCategory}.
-          @attr name android:android_orderInCategory
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#orderInCategory}.
+          @attr name android:orderInCategory
         */
         public static final int SherlockMenuGroup_android_orderInCategory = 4;
         /**
           <p>
           @attr description
            Whether the items are shown/visible. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_visible}.
-          @attr name android:android_visible
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#visible}.
+          @attr name android:visible
         */
         public static final int SherlockMenuGroup_android_visible = 2;
         /**  Base attributes that are available to all Item objects. 
@@ -3108,26 +3117,26 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_actionLayout com.rubika.aotalk:android_actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_actionProviderClass com.rubika.aotalk:android_actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
+           <tr><td><code>{@link #SherlockMenuItem_android_actionLayout android:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_actionProviderClass android:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
              and perform operations such as default action for that menu item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_actionViewClass com.rubika.aotalk:android_actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
+           <tr><td><code>{@link #SherlockMenuItem_android_actionViewClass android:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
              action view.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_alphabeticShortcut com.rubika.aotalk:android_alphabeticShortcut}</code></td><td> The alphabetic shortcut key.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_checkable com.rubika.aotalk:android_checkable}</code></td><td> Whether the item is capable of displaying a check mark.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_checked com.rubika.aotalk:android_checked}</code></td><td> Whether the item is checked.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_enabled com.rubika.aotalk:android_enabled}</code></td><td> Whether the item is enabled.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_icon com.rubika.aotalk:android_icon}</code></td><td> The icon associated with this item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_id com.rubika.aotalk:android_id}</code></td><td> The ID of the item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_menuCategory com.rubika.aotalk:android_menuCategory}</code></td><td> The category applied to the item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_numericShortcut com.rubika.aotalk:android_numericShortcut}</code></td><td> The numeric shortcut key.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_onClick com.rubika.aotalk:android_onClick}</code></td><td> Name of a method on the Context used to inflate the menu that will be
+           <tr><td><code>{@link #SherlockMenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td> The alphabetic shortcut key.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_checkable android:checkable}</code></td><td> Whether the item is capable of displaying a check mark.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_checked android:checked}</code></td><td> Whether the item is checked.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_enabled android:enabled}</code></td><td> Whether the item is enabled.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_icon android:icon}</code></td><td> The icon associated with this item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_id android:id}</code></td><td> The ID of the item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_menuCategory android:menuCategory}</code></td><td> The category applied to the item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_numericShortcut android:numericShortcut}</code></td><td> The numeric shortcut key.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_onClick android:onClick}</code></td><td> Name of a method on the Context used to inflate the menu that will be
              called when the item is clicked.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_orderInCategory com.rubika.aotalk:android_orderInCategory}</code></td><td> The order within the category applied to the item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_showAsAction com.rubika.aotalk:android_showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_title com.rubika.aotalk:android_title}</code></td><td> The title associated with the item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_titleCondensed com.rubika.aotalk:android_titleCondensed}</code></td><td> The condensed title associated with the item.</td></tr>
-           <tr><td><code>{@link #SherlockMenuItem_android_visible com.rubika.aotalk:android_visible}</code></td><td> Whether the item is shown/visible.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_orderInCategory android:orderInCategory}</code></td><td> The order within the category applied to the item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_showAsAction android:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_title android:title}</code></td><td> The title associated with the item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_titleCondensed android:titleCondensed}</code></td><td> The condensed title associated with the item.</td></tr>
+           <tr><td><code>{@link #SherlockMenuItem_android_visible android:visible}</code></td><td> Whether the item is shown/visible.</td></tr>
            </table>
            @see #SherlockMenuItem_android_actionLayout
            @see #SherlockMenuItem_android_actionProviderClass
@@ -3160,8 +3169,9 @@ containing a value of this type.
            An optional layout to be used as an action view.
              See {@link android.view.MenuItem#setActionView(android.view.View)}
              for more info. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_actionLayout}.
-          @attr name android:android_actionLayout
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#actionLayout}.
+          @attr name android:actionLayout
         */
         public static final int SherlockMenuItem_android_actionLayout = 14;
         /**
@@ -3171,8 +3181,9 @@ containing a value of this type.
              and perform operations such as default action for that menu item.
              See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
              for more info. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_actionProviderClass}.
-          @attr name android:android_actionProviderClass
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#actionProviderClass}.
+          @attr name android:actionProviderClass
         */
         public static final int SherlockMenuItem_android_actionProviderClass = 16;
         /**
@@ -3181,8 +3192,9 @@ containing a value of this type.
            The name of an optional View class to instantiate and use as an
              action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
              for more info. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_actionViewClass}.
-          @attr name android:android_actionViewClass
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#actionViewClass}.
+          @attr name android:actionViewClass
         */
         public static final int SherlockMenuItem_android_actionViewClass = 15;
         /**
@@ -3190,16 +3202,18 @@ containing a value of this type.
           @attr description
            The alphabetic shortcut key.  This is the shortcut when using a keyboard
              with alphabetic keys. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_alphabeticShortcut}.
-          @attr name android:android_alphabeticShortcut
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#alphabeticShortcut}.
+          @attr name android:alphabeticShortcut
         */
         public static final int SherlockMenuItem_android_alphabeticShortcut = 9;
         /**
           <p>
           @attr description
            Whether the item is capable of displaying a check mark. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_checkable}.
-          @attr name android:android_checkable
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#checkable}.
+          @attr name android:checkable
         */
         public static final int SherlockMenuItem_android_checkable = 11;
         /**
@@ -3207,16 +3221,18 @@ containing a value of this type.
           @attr description
            Whether the item is checked.  Note that you must first have enabled checking with
              the checkable attribute or else the check mark will not appear. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_checked}.
-          @attr name android:android_checked
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#checked}.
+          @attr name android:checked
         */
         public static final int SherlockMenuItem_android_checked = 3;
         /**
           <p>
           @attr description
            Whether the item is enabled. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_enabled}.
-          @attr name android:android_enabled
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#enabled}.
+          @attr name android:enabled
         */
         public static final int SherlockMenuItem_android_enabled = 1;
         /**
@@ -3224,16 +3240,18 @@ containing a value of this type.
           @attr description
            The icon associated with this item.  This icon will not always be shown, so
              the title should be sufficient in describing this item. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_icon}.
-          @attr name android:android_icon
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#icon}.
+          @attr name android:icon
         */
         public static final int SherlockMenuItem_android_icon = 0;
         /**
           <p>
           @attr description
            The ID of the item. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_id}.
-          @attr name android:android_id
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#id}.
+          @attr name android:id
         */
         public static final int SherlockMenuItem_android_id = 2;
         /**
@@ -3241,8 +3259,9 @@ containing a value of this type.
           @attr description
            The category applied to the item.
              (This will be or'ed with the orderInCategory attribute.) 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_menuCategory}.
-          @attr name android:android_menuCategory
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#menuCategory}.
+          @attr name android:menuCategory
         */
         public static final int SherlockMenuItem_android_menuCategory = 5;
         /**
@@ -3250,8 +3269,9 @@ containing a value of this type.
           @attr description
            The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
              keyboard. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_numericShortcut}.
-          @attr name android:android_numericShortcut
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#numericShortcut}.
+          @attr name android:numericShortcut
         */
         public static final int SherlockMenuItem_android_numericShortcut = 10;
         /**
@@ -3259,8 +3279,9 @@ containing a value of this type.
           @attr description
            Name of a method on the Context used to inflate the menu that will be
              called when the item is clicked. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_onClick}.
-          @attr name android:android_onClick
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#onClick}.
+          @attr name android:onClick
         */
         public static final int SherlockMenuItem_android_onClick = 12;
         /**
@@ -3268,24 +3289,27 @@ containing a value of this type.
           @attr description
            The order within the category applied to the item.
              (This will be or'ed with the category attribute.) 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_orderInCategory}.
-          @attr name android:android_orderInCategory
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#orderInCategory}.
+          @attr name android:orderInCategory
         */
         public static final int SherlockMenuItem_android_orderInCategory = 6;
         /**
           <p>
           @attr description
            How this item should display in the Action Bar, if present. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_showAsAction}.
-          @attr name android:android_showAsAction
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#showAsAction}.
+          @attr name android:showAsAction
         */
         public static final int SherlockMenuItem_android_showAsAction = 13;
         /**
           <p>
           @attr description
            The title associated with the item. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_title}.
-          @attr name android:android_title
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#title}.
+          @attr name android:title
         */
         public static final int SherlockMenuItem_android_title = 7;
         /**
@@ -3293,16 +3317,18 @@ containing a value of this type.
           @attr description
            The condensed title associated with the item.  This is used in situations where the
              normal title may be too long to be displayed. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_titleCondensed}.
-          @attr name android:android_titleCondensed
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#titleCondensed}.
+          @attr name android:titleCondensed
         */
         public static final int SherlockMenuItem_android_titleCondensed = 8;
         /**
           <p>
           @attr description
            Whether the item is shown/visible. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_visible}.
-          @attr name android:android_visible
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#visible}.
+          @attr name android:visible
         */
         public static final int SherlockMenuItem_android_visible = 4;
         /** Attributes that can be used with a SherlockMenuView.
@@ -3344,7 +3370,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:headerBackground
+          @attr name com.rubika.aotalk:headerBackground
         */
         public static final int SherlockMenuView_headerBackground = 3;
         /**
@@ -3356,7 +3382,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:horizontalDivider
+          @attr name com.rubika.aotalk:horizontalDivider
         */
         public static final int SherlockMenuView_horizontalDivider = 1;
         /**
@@ -3370,7 +3396,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:itemBackground
+          @attr name com.rubika.aotalk:itemBackground
         */
         public static final int SherlockMenuView_itemBackground = 4;
         /**
@@ -3386,7 +3412,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:itemIconDisabledAlpha
+          @attr name com.rubika.aotalk:itemIconDisabledAlpha
         */
         public static final int SherlockMenuView_itemIconDisabledAlpha = 6;
         /**
@@ -3398,7 +3424,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:itemTextAppearance
+          @attr name com.rubika.aotalk:itemTextAppearance
         */
         public static final int SherlockMenuView_itemTextAppearance = 0;
         /**
@@ -3414,7 +3440,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:preserveIconSpacing
+          @attr name com.rubika.aotalk:preserveIconSpacing
         */
         public static final int SherlockMenuView_preserveIconSpacing = 7;
         /**
@@ -3426,7 +3452,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:verticalDivider
+          @attr name com.rubika.aotalk:verticalDivider
         */
         public static final int SherlockMenuView_verticalDivider = 2;
         /**
@@ -3438,7 +3464,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:windowAnimationStyle
+          @attr name com.rubika.aotalk:windowAnimationStyle
         */
         public static final int SherlockMenuView_windowAnimationStyle = 5;
         /** Attributes that can be used with a SherlockSearchView.
@@ -3447,9 +3473,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockSearchView_android_imeOptions com.rubika.aotalk:android_imeOptions}</code></td><td> The IME options to set on the query text field.</td></tr>
-           <tr><td><code>{@link #SherlockSearchView_android_inputType com.rubika.aotalk:android_inputType}</code></td><td> The input type to set on the query text field.</td></tr>
-           <tr><td><code>{@link #SherlockSearchView_android_maxWidth com.rubika.aotalk:android_maxWidth}</code></td><td> An optional maximum width of the SearchView.</td></tr>
+           <tr><td><code>{@link #SherlockSearchView_android_imeOptions android:imeOptions}</code></td><td> The IME options to set on the query text field.</td></tr>
+           <tr><td><code>{@link #SherlockSearchView_android_inputType android:inputType}</code></td><td> The input type to set on the query text field.</td></tr>
+           <tr><td><code>{@link #SherlockSearchView_android_maxWidth android:maxWidth}</code></td><td> An optional maximum width of the SearchView.</td></tr>
            <tr><td><code>{@link #SherlockSearchView_iconifiedByDefault com.rubika.aotalk:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
            <tr><td><code>{@link #SherlockSearchView_queryHint com.rubika.aotalk:queryHint}</code></td><td> An optional query hint string to be displayed in the empty query field.</td></tr>
            </table>
@@ -3467,24 +3493,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>
           @attr description
            The IME options to set on the query text field. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_imeOptions}.
-          @attr name android:android_imeOptions
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#imeOptions}.
+          @attr name android:imeOptions
         */
         public static final int SherlockSearchView_android_imeOptions = 2;
         /**
           <p>
           @attr description
            The input type to set on the query text field. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_inputType}.
-          @attr name android:android_inputType
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#inputType}.
+          @attr name android:inputType
         */
         public static final int SherlockSearchView_android_inputType = 1;
         /**
           <p>
           @attr description
            An optional maximum width of the SearchView. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_maxWidth}.
-          @attr name android:android_maxWidth
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#maxWidth}.
+          @attr name android:maxWidth
         */
         public static final int SherlockSearchView_android_maxWidth = 0;
         /**
@@ -3501,7 +3530,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:iconifiedByDefault
+          @attr name com.rubika.aotalk:iconifiedByDefault
         */
         public static final int SherlockSearchView_iconifiedByDefault = 3;
         /**
@@ -3517,7 +3546,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:queryHint
+          @attr name com.rubika.aotalk:queryHint
         */
         public static final int SherlockSearchView_queryHint = 4;
         /** Attributes that can be used with a SherlockSpinner.
@@ -3526,17 +3555,17 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_dropDownHorizontalOffset com.rubika.aotalk:android_dropDownHorizontalOffset}</code></td><td> Horizontal offset from the spinner widget for positioning the dropdown
+           <tr><td><code>{@link #SherlockSpinner_android_dropDownHorizontalOffset android:dropDownHorizontalOffset}</code></td><td> Horizontal offset from the spinner widget for positioning the dropdown
              in spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_dropDownSelector com.rubika.aotalk:android_dropDownSelector}</code></td><td> List selector to use for spinnerMode="dropdown" display.</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_dropDownVerticalOffset com.rubika.aotalk:android_dropDownVerticalOffset}</code></td><td> Vertical offset from the spinner widget for positioning the dropdown in
+           <tr><td><code>{@link #SherlockSpinner_android_dropDownSelector android:dropDownSelector}</code></td><td> List selector to use for spinnerMode="dropdown" display.</td></tr>
+           <tr><td><code>{@link #SherlockSpinner_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td> Vertical offset from the spinner widget for positioning the dropdown in
              spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_dropDownWidth com.rubika.aotalk:android_dropDownWidth}</code></td><td> Width of the dropdown in spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_gravity com.rubika.aotalk:android_gravity}</code></td><td> Gravity setting for positioning the currently selected item.</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_popupBackground com.rubika.aotalk:android_popupBackground}</code></td><td> Background drawable to use for the dropdown in spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_popupPromptView com.rubika.aotalk:android_popupPromptView}</code></td><td> Reference to a layout to use for displaying a prompt in the dropdown for
+           <tr><td><code>{@link #SherlockSpinner_android_dropDownWidth android:dropDownWidth}</code></td><td> Width of the dropdown in spinnerMode="dropdown".</td></tr>
+           <tr><td><code>{@link #SherlockSpinner_android_gravity android:gravity}</code></td><td> Gravity setting for positioning the currently selected item.</td></tr>
+           <tr><td><code>{@link #SherlockSpinner_android_popupBackground android:popupBackground}</code></td><td> Background drawable to use for the dropdown in spinnerMode="dropdown".</td></tr>
+           <tr><td><code>{@link #SherlockSpinner_android_popupPromptView android:popupPromptView}</code></td><td> Reference to a layout to use for displaying a prompt in the dropdown for
              spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #SherlockSpinner_android_prompt com.rubika.aotalk:android_prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
+           <tr><td><code>{@link #SherlockSpinner_android_prompt android:prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
            </table>
            @see #SherlockSpinner_android_dropDownHorizontalOffset
            @see #SherlockSpinner_android_dropDownSelector
@@ -3556,16 +3585,18 @@ containing a value of this type.
           @attr description
            Horizontal offset from the spinner widget for positioning the dropdown
              in spinnerMode="dropdown". 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_dropDownHorizontalOffset}.
-          @attr name android:android_dropDownHorizontalOffset
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#dropDownHorizontalOffset}.
+          @attr name android:dropDownHorizontalOffset
         */
         public static final int SherlockSpinner_android_dropDownHorizontalOffset = 5;
         /**
           <p>
           @attr description
            List selector to use for spinnerMode="dropdown" display. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_dropDownSelector}.
-          @attr name android:android_dropDownSelector
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#dropDownSelector}.
+          @attr name android:dropDownSelector
         */
         public static final int SherlockSpinner_android_dropDownSelector = 1;
         /**
@@ -3573,32 +3604,36 @@ containing a value of this type.
           @attr description
            Vertical offset from the spinner widget for positioning the dropdown in
              spinnerMode="dropdown". 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_dropDownVerticalOffset}.
-          @attr name android:android_dropDownVerticalOffset
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#dropDownVerticalOffset}.
+          @attr name android:dropDownVerticalOffset
         */
         public static final int SherlockSpinner_android_dropDownVerticalOffset = 6;
         /**
           <p>
           @attr description
            Width of the dropdown in spinnerMode="dropdown". 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_dropDownWidth}.
-          @attr name android:android_dropDownWidth
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#dropDownWidth}.
+          @attr name android:dropDownWidth
         */
         public static final int SherlockSpinner_android_dropDownWidth = 4;
         /**
           <p>
           @attr description
            Gravity setting for positioning the currently selected item. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_gravity}.
-          @attr name android:android_gravity
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#gravity}.
+          @attr name android:gravity
         */
         public static final int SherlockSpinner_android_gravity = 0;
         /**
           <p>
           @attr description
            Background drawable to use for the dropdown in spinnerMode="dropdown". 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_popupBackground}.
-          @attr name android:android_popupBackground
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#popupBackground}.
+          @attr name android:popupBackground
         */
         public static final int SherlockSpinner_android_popupBackground = 2;
         /**
@@ -3608,15 +3643,16 @@ containing a value of this type.
              spinnerMode="dropdown". This layout must contain a TextView with the id
              @android:id/text1 to be populated with the prompt text. 
           <p>This is a private symbol.
-          @attr name android:android_popupPromptView
+          @attr name android:popupPromptView
         */
         public static final int SherlockSpinner_android_popupPromptView = 7;
         /**
           <p>
           @attr description
            The prompt to display when the spinner's dialog is shown. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_prompt}.
-          @attr name android:android_prompt
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#prompt}.
+          @attr name android:prompt
         */
         public static final int SherlockSpinner_android_prompt = 3;
         /** Attributes that can be used with a SherlockTheme.
@@ -3793,7 +3829,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarDivider
+          @attr name com.rubika.aotalk:actionBarDivider
         */
         public static final int SherlockTheme_actionBarDivider = 8;
         /**
@@ -3805,7 +3841,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarItemBackground
+          @attr name com.rubika.aotalk:actionBarItemBackground
         */
         public static final int SherlockTheme_actionBarItemBackground = 9;
         /**
@@ -3832,7 +3868,7 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name android:actionBarSize
+          @attr name com.rubika.aotalk:actionBarSize
         */
         public static final int SherlockTheme_actionBarSize = 7;
         /**
@@ -3847,7 +3883,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarSplitStyle
+          @attr name com.rubika.aotalk:actionBarSplitStyle
         */
         public static final int SherlockTheme_actionBarSplitStyle = 5;
         /**
@@ -3859,7 +3895,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarStyle
+          @attr name com.rubika.aotalk:actionBarStyle
         */
         public static final int SherlockTheme_actionBarStyle = 4;
         /**
@@ -3869,7 +3905,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionBarTabBarStyle
+          @attr name com.rubika.aotalk:actionBarTabBarStyle
         */
         public static final int SherlockTheme_actionBarTabBarStyle = 1;
         /**
@@ -3881,7 +3917,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarTabStyle
+          @attr name com.rubika.aotalk:actionBarTabStyle
         */
         public static final int SherlockTheme_actionBarTabStyle = 0;
         /**
@@ -3891,7 +3927,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionBarTabTextStyle
+          @attr name com.rubika.aotalk:actionBarTabTextStyle
         */
         public static final int SherlockTheme_actionBarTabTextStyle = 2;
         /**
@@ -3909,7 +3945,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionBarWidgetTheme
+          @attr name com.rubika.aotalk:actionBarWidgetTheme
         */
         public static final int SherlockTheme_actionBarWidgetTheme = 6;
         /**
@@ -3919,7 +3955,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionButtonStyle
+          @attr name com.rubika.aotalk:actionButtonStyle
         */
         public static final int SherlockTheme_actionButtonStyle = 52;
         /**
@@ -3929,7 +3965,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionDropDownStyle
+          @attr name com.rubika.aotalk:actionDropDownStyle
         */
         public static final int SherlockTheme_actionDropDownStyle = 51;
         /**
@@ -3942,7 +3978,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionMenuTextAppearance
+          @attr name com.rubika.aotalk:actionMenuTextAppearance
         */
         public static final int SherlockTheme_actionMenuTextAppearance = 10;
         /**
@@ -3956,7 +3992,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionMenuTextColor
+          @attr name com.rubika.aotalk:actionMenuTextColor
         */
         public static final int SherlockTheme_actionMenuTextColor = 11;
         /**
@@ -3968,7 +4004,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionModeBackground
+          @attr name com.rubika.aotalk:actionModeBackground
         */
         public static final int SherlockTheme_actionModeBackground = 14;
         /**
@@ -3978,7 +4014,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionModeCloseButtonStyle
+          @attr name com.rubika.aotalk:actionModeCloseButtonStyle
         */
         public static final int SherlockTheme_actionModeCloseButtonStyle = 13;
         /**
@@ -3990,7 +4026,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionModeCloseDrawable
+          @attr name com.rubika.aotalk:actionModeCloseDrawable
         */
         public static final int SherlockTheme_actionModeCloseDrawable = 16;
         /**
@@ -4002,7 +4038,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionModePopupWindowStyle
+          @attr name com.rubika.aotalk:actionModePopupWindowStyle
         */
         public static final int SherlockTheme_actionModePopupWindowStyle = 18;
         /**
@@ -4014,7 +4050,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionModeShareDrawable
+          @attr name com.rubika.aotalk:actionModeShareDrawable
         */
         public static final int SherlockTheme_actionModeShareDrawable = 17;
         /**
@@ -4026,7 +4062,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:actionModeSplitBackground
+          @attr name com.rubika.aotalk:actionModeSplitBackground
         */
         public static final int SherlockTheme_actionModeSplitBackground = 15;
         /**
@@ -4036,7 +4072,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionModeStyle
+          @attr name com.rubika.aotalk:actionModeStyle
         */
         public static final int SherlockTheme_actionModeStyle = 12;
         /**
@@ -4046,7 +4082,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionOverflowButtonStyle
+          @attr name com.rubika.aotalk:actionOverflowButtonStyle
         */
         public static final int SherlockTheme_actionOverflowButtonStyle = 3;
         /**
@@ -4056,7 +4092,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:actionSpinnerItemStyle
+          @attr name com.rubika.aotalk:actionSpinnerItemStyle
         */
         public static final int SherlockTheme_actionSpinnerItemStyle = 57;
         /**
@@ -4068,7 +4104,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:activatedBackgroundIndicator
+          @attr name com.rubika.aotalk:activatedBackgroundIndicator
         */
         public static final int SherlockTheme_activatedBackgroundIndicator = 65;
         /**
@@ -4080,7 +4116,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:activityChooserViewStyle
+          @attr name com.rubika.aotalk:activityChooserViewStyle
         */
         public static final int SherlockTheme_activityChooserViewStyle = 64;
         /**
@@ -4092,7 +4128,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:buttonStyleSmall
+          @attr name com.rubika.aotalk:buttonStyleSmall
         */
         public static final int SherlockTheme_buttonStyleSmall = 19;
         /**
@@ -4104,7 +4140,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:dividerVertical
+          @attr name com.rubika.aotalk:dividerVertical
         */
         public static final int SherlockTheme_dividerVertical = 50;
         /**
@@ -4114,7 +4150,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:dropDownHintAppearance
+          @attr name com.rubika.aotalk:dropDownHintAppearance
         */
         public static final int SherlockTheme_dropDownHintAppearance = 66;
         /**
@@ -4124,7 +4160,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:dropDownListViewStyle
+          @attr name com.rubika.aotalk:dropDownListViewStyle
         */
         public static final int SherlockTheme_dropDownListViewStyle = 54;
         /**
@@ -4140,7 +4176,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:dropdownListPreferredItemHeight
+          @attr name com.rubika.aotalk:dropdownListPreferredItemHeight
         */
         public static final int SherlockTheme_dropdownListPreferredItemHeight = 56;
         /**
@@ -4150,7 +4186,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:homeAsUpIndicator
+          @attr name com.rubika.aotalk:homeAsUpIndicator
         */
         public static final int SherlockTheme_homeAsUpIndicator = 53;
         /**
@@ -4160,7 +4196,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listPopupWindowStyle
+          @attr name com.rubika.aotalk:listPopupWindowStyle
         */
         public static final int SherlockTheme_listPopupWindowStyle = 63;
         /**
@@ -4178,7 +4214,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:listPreferredItemHeightSmall
+          @attr name com.rubika.aotalk:listPreferredItemHeightSmall
         */
         public static final int SherlockTheme_listPreferredItemHeightSmall = 44;
         /**
@@ -4196,7 +4232,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:listPreferredItemPaddingLeft
+          @attr name com.rubika.aotalk:listPreferredItemPaddingLeft
         */
         public static final int SherlockTheme_listPreferredItemPaddingLeft = 45;
         /**
@@ -4214,7 +4250,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:listPreferredItemPaddingRight
+          @attr name com.rubika.aotalk:listPreferredItemPaddingRight
         */
         public static final int SherlockTheme_listPreferredItemPaddingRight = 46;
         /**
@@ -4224,7 +4260,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:popupMenuStyle
+          @attr name com.rubika.aotalk:popupMenuStyle
         */
         public static final int SherlockTheme_popupMenuStyle = 55;
         /**
@@ -4236,7 +4272,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchAutoCompleteTextView
+          @attr name com.rubika.aotalk:searchAutoCompleteTextView
         */
         public static final int SherlockTheme_searchAutoCompleteTextView = 30;
         /**
@@ -4248,7 +4284,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchDropdownBackground
+          @attr name com.rubika.aotalk:searchDropdownBackground
         */
         public static final int SherlockTheme_searchDropdownBackground = 31;
         /**
@@ -4266,7 +4302,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:searchResultListItemHeight
+          @attr name com.rubika.aotalk:searchResultListItemHeight
         */
         public static final int SherlockTheme_searchResultListItemHeight = 41;
         /**
@@ -4278,7 +4314,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewCloseIcon
+          @attr name com.rubika.aotalk:searchViewCloseIcon
         */
         public static final int SherlockTheme_searchViewCloseIcon = 32;
         /**
@@ -4290,7 +4326,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewEditQuery
+          @attr name com.rubika.aotalk:searchViewEditQuery
         */
         public static final int SherlockTheme_searchViewEditQuery = 36;
         /**
@@ -4302,7 +4338,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewEditQueryBackground
+          @attr name com.rubika.aotalk:searchViewEditQueryBackground
         */
         public static final int SherlockTheme_searchViewEditQueryBackground = 37;
         /**
@@ -4314,7 +4350,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewGoIcon
+          @attr name com.rubika.aotalk:searchViewGoIcon
         */
         public static final int SherlockTheme_searchViewGoIcon = 33;
         /**
@@ -4326,7 +4362,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewSearchIcon
+          @attr name com.rubika.aotalk:searchViewSearchIcon
         */
         public static final int SherlockTheme_searchViewSearchIcon = 34;
         /**
@@ -4338,7 +4374,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewTextField
+          @attr name com.rubika.aotalk:searchViewTextField
         */
         public static final int SherlockTheme_searchViewTextField = 38;
         /**
@@ -4350,7 +4386,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewTextFieldRight
+          @attr name com.rubika.aotalk:searchViewTextFieldRight
         */
         public static final int SherlockTheme_searchViewTextFieldRight = 39;
         /**
@@ -4362,7 +4398,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:searchViewVoiceIcon
+          @attr name com.rubika.aotalk:searchViewVoiceIcon
         */
         public static final int SherlockTheme_searchViewVoiceIcon = 35;
         /**
@@ -4374,7 +4410,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:selectableItemBackground
+          @attr name com.rubika.aotalk:selectableItemBackground
         */
         public static final int SherlockTheme_selectableItemBackground = 20;
         /**
@@ -4384,7 +4420,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:spinnerDropDownItemStyle
+          @attr name com.rubika.aotalk:spinnerDropDownItemStyle
         */
         public static final int SherlockTheme_spinnerDropDownItemStyle = 29;
         /**
@@ -4394,7 +4430,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:spinnerItemStyle
+          @attr name com.rubika.aotalk:spinnerItemStyle
         */
         public static final int SherlockTheme_spinnerItemStyle = 28;
         /**
@@ -4406,7 +4442,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceLargePopupMenu
+          @attr name com.rubika.aotalk:textAppearanceLargePopupMenu
         */
         public static final int SherlockTheme_textAppearanceLargePopupMenu = 22;
         /**
@@ -4418,7 +4454,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceListItemSmall
+          @attr name com.rubika.aotalk:textAppearanceListItemSmall
         */
         public static final int SherlockTheme_textAppearanceListItemSmall = 47;
         /**
@@ -4430,7 +4466,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceSearchResultSubtitle
+          @attr name com.rubika.aotalk:textAppearanceSearchResultSubtitle
         */
         public static final int SherlockTheme_textAppearanceSearchResultSubtitle = 43;
         /**
@@ -4442,7 +4478,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceSearchResultTitle
+          @attr name com.rubika.aotalk:textAppearanceSearchResultTitle
         */
         public static final int SherlockTheme_textAppearanceSearchResultTitle = 42;
         /**
@@ -4454,7 +4490,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceSmall
+          @attr name com.rubika.aotalk:textAppearanceSmall
         */
         public static final int SherlockTheme_textAppearanceSmall = 24;
         /**
@@ -4466,7 +4502,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:textAppearanceSmallPopupMenu
+          @attr name com.rubika.aotalk:textAppearanceSmallPopupMenu
         */
         public static final int SherlockTheme_textAppearanceSmallPopupMenu = 23;
         /**
@@ -4481,7 +4517,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:textColorPrimary
+          @attr name com.rubika.aotalk:textColorPrimary
         */
         public static final int SherlockTheme_textColorPrimary = 25;
         /**
@@ -4496,7 +4532,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:textColorPrimaryDisableOnly
+          @attr name com.rubika.aotalk:textColorPrimaryDisableOnly
         */
         public static final int SherlockTheme_textColorPrimaryDisableOnly = 26;
         /**
@@ -4511,7 +4547,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:textColorPrimaryInverse
+          @attr name com.rubika.aotalk:textColorPrimaryInverse
         */
         public static final int SherlockTheme_textColorPrimaryInverse = 27;
         /**
@@ -4525,7 +4561,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name android:textColorSearchUrl
+          @attr name com.rubika.aotalk:textColorSearchUrl
         */
         public static final int SherlockTheme_textColorSearchUrl = 40;
         /**
@@ -4539,7 +4575,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowActionBar
+          @attr name com.rubika.aotalk:windowActionBar
         */
         public static final int SherlockTheme_windowActionBar = 59;
         /**
@@ -4553,7 +4589,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowActionBarOverlay
+          @attr name com.rubika.aotalk:windowActionBarOverlay
         */
         public static final int SherlockTheme_windowActionBarOverlay = 60;
         /**
@@ -4567,7 +4603,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowActionModeOverlay
+          @attr name com.rubika.aotalk:windowActionModeOverlay
         */
         public static final int SherlockTheme_windowActionModeOverlay = 61;
         /**
@@ -4580,7 +4616,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:windowContentOverlay
+          @attr name com.rubika.aotalk:windowContentOverlay
         */
         public static final int SherlockTheme_windowContentOverlay = 21;
         /**
@@ -4596,7 +4632,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowMinWidthMajor
+          @attr name com.rubika.aotalk:windowMinWidthMajor
         */
         public static final int SherlockTheme_windowMinWidthMajor = 48;
         /**
@@ -4612,7 +4648,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowMinWidthMinor
+          @attr name com.rubika.aotalk:windowMinWidthMinor
         */
         public static final int SherlockTheme_windowMinWidthMinor = 49;
         /**
@@ -4626,7 +4662,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowNoTitle
+          @attr name com.rubika.aotalk:windowNoTitle
         */
         public static final int SherlockTheme_windowNoTitle = 58;
         /**
@@ -4640,7 +4676,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:windowSplitActionBar
+          @attr name com.rubika.aotalk:windowSplitActionBar
         */
         public static final int SherlockTheme_windowSplitActionBar = 62;
         /** Attributes that can be used with a SherlockView.
@@ -4649,7 +4685,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SherlockView_android_focusable com.rubika.aotalk:android_focusable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SherlockView_android_focusable android:focusable}</code></td><td></td></tr>
            </table>
            @see #SherlockView_android_focusable
          */
@@ -4657,9 +4693,9 @@ containing a value of this type.
             0x010100da
         };
         /**
-          <p>This symbol is the offset where the {@link com.rubika.aotalk.R.attr#android_focusable}
+          <p>This symbol is the offset where the {@link android.R.attr#focusable}
           attribute's value can be found in the {@link #SherlockView} array.
-          @attr name android:android_focusable
+          @attr name android:focusable
         */
         public static final int SherlockView_android_focusable = 0;
         /** Attributes that can be used with a Theme_AOTalkTheme.
@@ -4702,7 +4738,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:applicationFooterStyle
+          @attr name com.rubika.aotalk:applicationFooterStyle
         */
         public static final int Theme_AOTalkTheme_applicationFooterStyle = 1;
         /**
@@ -4712,7 +4748,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listItemSecondaryStyle
+          @attr name com.rubika.aotalk:listItemSecondaryStyle
         */
         public static final int Theme_AOTalkTheme_listItemSecondaryStyle = 8;
         /**
@@ -4722,7 +4758,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listItemStyle
+          @attr name com.rubika.aotalk:listItemStyle
         */
         public static final int Theme_AOTalkTheme_listItemStyle = 7;
         /**
@@ -4732,7 +4768,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextHeaderStyle
+          @attr name com.rubika.aotalk:listTextHeaderStyle
         */
         public static final int Theme_AOTalkTheme_listTextHeaderStyle = 9;
         /**
@@ -4742,7 +4778,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextMainLargeStyle
+          @attr name com.rubika.aotalk:listTextMainLargeStyle
         */
         public static final int Theme_AOTalkTheme_listTextMainLargeStyle = 3;
         /**
@@ -4752,7 +4788,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextMainSmallStyle
+          @attr name com.rubika.aotalk:listTextMainSmallStyle
         */
         public static final int Theme_AOTalkTheme_listTextMainSmallStyle = 4;
         /**
@@ -4762,7 +4798,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextMainStyle
+          @attr name com.rubika.aotalk:listTextMainStyle
         */
         public static final int Theme_AOTalkTheme_listTextMainStyle = 2;
         /**
@@ -4772,7 +4808,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextSubLargeStyle
+          @attr name com.rubika.aotalk:listTextSubLargeStyle
         */
         public static final int Theme_AOTalkTheme_listTextSubLargeStyle = 6;
         /**
@@ -4782,7 +4818,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:listTextSubStyle
+          @attr name com.rubika.aotalk:listTextSubStyle
         */
         public static final int Theme_AOTalkTheme_listTextSubStyle = 5;
         /**
@@ -4792,7 +4828,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:titlePageIndicatorStyle
+          @attr name com.rubika.aotalk:titlePageIndicatorStyle
         */
         public static final int Theme_AOTalkTheme_titlePageIndicatorStyle = 0;
         /** Attributes that can be used with a TitlePageIndicator.
@@ -4801,9 +4837,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TitlePageIndicator_android_background com.rubika.aotalk:android_background}</code></td><td> View background </td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_android_textColor com.rubika.aotalk:android_textColor}</code></td><td> Color of regular titles.</td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_android_textSize com.rubika.aotalk:android_textSize}</code></td><td> Size of title text.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_android_textColor android:textColor}</code></td><td> Color of regular titles.</td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_android_textSize android:textSize}</code></td><td> Size of title text.</td></tr>
            <tr><td><code>{@link #TitlePageIndicator_clipPadding com.rubika.aotalk:clipPadding}</code></td><td> Screen edge padding.</td></tr>
            <tr><td><code>{@link #TitlePageIndicator_footerColor com.rubika.aotalk:footerColor}</code></td><td> Color of the footer line and indicator.</td></tr>
            <tr><td><code>{@link #TitlePageIndicator_footerIndicatorHeight com.rubika.aotalk:footerIndicatorHeight}</code></td><td> Height of the indicator above the footer line.</td></tr>
@@ -4843,24 +4879,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>
           @attr description
            View background 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_background}.
-          @attr name android:android_background
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#background}.
+          @attr name android:background
         */
         public static final int TitlePageIndicator_android_background = 2;
         /**
           <p>
           @attr description
            Color of regular titles. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_textColor}.
-          @attr name android:android_textColor
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#textColor}.
+          @attr name android:textColor
         */
         public static final int TitlePageIndicator_android_textColor = 1;
         /**
           <p>
           @attr description
            Size of title text. 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_textSize}.
-          @attr name android:android_textSize
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#textSize}.
+          @attr name android:textSize
         */
         public static final int TitlePageIndicator_android_textSize = 0;
         /**
@@ -4878,7 +4917,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:clipPadding
+          @attr name com.rubika.aotalk:clipPadding
         */
         public static final int TitlePageIndicator_clipPadding = 4;
         /**
@@ -4895,7 +4934,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:footerColor
+          @attr name com.rubika.aotalk:footerColor
         */
         public static final int TitlePageIndicator_footerColor = 5;
         /**
@@ -4913,7 +4952,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:footerIndicatorHeight
+          @attr name com.rubika.aotalk:footerIndicatorHeight
         */
         public static final int TitlePageIndicator_footerIndicatorHeight = 8;
         /**
@@ -4933,7 +4972,7 @@ containing a value of this type.
 <tr><td><code>underline</code></td><td>2</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name android:footerIndicatorStyle
+          @attr name com.rubika.aotalk:footerIndicatorStyle
         */
         public static final int TitlePageIndicator_footerIndicatorStyle = 7;
         /**
@@ -4951,7 +4990,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:footerIndicatorUnderlinePadding
+          @attr name com.rubika.aotalk:footerIndicatorUnderlinePadding
         */
         public static final int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;
         /**
@@ -4969,7 +5008,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:footerLineHeight
+          @attr name com.rubika.aotalk:footerLineHeight
         */
         public static final int TitlePageIndicator_footerLineHeight = 6;
         /**
@@ -4987,7 +5026,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:footerPadding
+          @attr name com.rubika.aotalk:footerPadding
         */
         public static final int TitlePageIndicator_footerPadding = 10;
         /**
@@ -5006,7 +5045,7 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>1</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name android:linePosition
+          @attr name com.rubika.aotalk:linePosition
         */
         public static final int TitlePageIndicator_linePosition = 11;
         /**
@@ -5022,7 +5061,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:selectedBold
+          @attr name com.rubika.aotalk:selectedBold
         */
         public static final int TitlePageIndicator_selectedBold = 12;
         /**
@@ -5039,7 +5078,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:selectedColor
+          @attr name com.rubika.aotalk:selectedColor
         */
         public static final int TitlePageIndicator_selectedColor = 3;
         /**
@@ -5057,7 +5096,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:titlePadding
+          @attr name com.rubika.aotalk:titlePadding
         */
         public static final int TitlePageIndicator_titlePadding = 13;
         /**
@@ -5075,7 +5114,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:topPadding
+          @attr name com.rubika.aotalk:topPadding
         */
         public static final int TitlePageIndicator_topPadding = 14;
         /** Attributes that can be used with a UnderlinePageIndicator.
@@ -5084,7 +5123,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_android_background com.rubika.aotalk:android_background}</code></td><td> View background </td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_android_background android:background}</code></td><td> View background </td></tr>
            <tr><td><code>{@link #UnderlinePageIndicator_fadeDelay com.rubika.aotalk:fadeDelay}</code></td><td> Length of the delay to fade the indicator.</td></tr>
            <tr><td><code>{@link #UnderlinePageIndicator_fadeLength com.rubika.aotalk:fadeLength}</code></td><td> Length of the indicator fade to transparent.</td></tr>
            <tr><td><code>{@link #UnderlinePageIndicator_fades com.rubika.aotalk:fades}</code></td><td> Whether or not the selected indicator fades.</td></tr>
@@ -5104,8 +5143,9 @@ containing a value of this type.
           <p>
           @attr description
            View background 
-          <p>This corresponds to the global attribute          resource symbol {@link com.rubika.aotalk.R.attr#android_background}.
-          @attr name android:android_background
+          <p>This corresponds to the global attribute
+          resource symbol {@link android.R.attr#background}.
+          @attr name android:background
         */
         public static final int UnderlinePageIndicator_android_background = 0;
         /**
@@ -5121,7 +5161,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:fadeDelay
+          @attr name com.rubika.aotalk:fadeDelay
         */
         public static final int UnderlinePageIndicator_fadeDelay = 3;
         /**
@@ -5137,7 +5177,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:fadeLength
+          @attr name com.rubika.aotalk:fadeLength
         */
         public static final int UnderlinePageIndicator_fadeLength = 4;
         /**
@@ -5153,7 +5193,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:fades
+          @attr name com.rubika.aotalk:fades
         */
         public static final int UnderlinePageIndicator_fades = 2;
         /**
@@ -5170,7 +5210,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:selectedColor
+          @attr name com.rubika.aotalk:selectedColor
         */
         public static final int UnderlinePageIndicator_selectedColor = 1;
         /** Attributes that can be used with a ViewPagerIndicator.
@@ -5206,7 +5246,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiCirclePageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiCirclePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
         /**
@@ -5218,7 +5258,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiIconPageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiIconPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;
         /**
@@ -5230,7 +5270,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiLinePageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiLinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;
         /**
@@ -5242,7 +5282,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiTabPageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiTabPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;
         /**
@@ -5254,7 +5294,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiTitlePageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiTitlePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;
         /**
@@ -5266,7 +5306,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:vpiUnderlinePageIndicatorStyle
+          @attr name com.rubika.aotalk:vpiUnderlinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;
         /** Attributes that can be used with a com_rubika_aotalk_improvedtextview_ImprovedTextView.
@@ -5311,7 +5351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name android:mtvBackground
+          @attr name com.rubika.aotalk:mtvBackground
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvBackground = 5;
         /**
@@ -5326,7 +5366,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvOuterShadowColor
+          @attr name com.rubika.aotalk:mtvOuterShadowColor
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvOuterShadowColor = 0;
         /**
@@ -5340,7 +5380,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvOuterShadowDx
+          @attr name com.rubika.aotalk:mtvOuterShadowDx
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvOuterShadowDx = 2;
         /**
@@ -5354,7 +5394,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvOuterShadowDy
+          @attr name com.rubika.aotalk:mtvOuterShadowDy
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvOuterShadowDy = 3;
         /**
@@ -5368,7 +5408,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvOuterShadowRadius
+          @attr name com.rubika.aotalk:mtvOuterShadowRadius
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvOuterShadowRadius = 1;
         /**
@@ -5383,7 +5423,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvStrokeColor
+          @attr name com.rubika.aotalk:mtvStrokeColor
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvStrokeColor = 8;
         /**
@@ -5401,7 +5441,7 @@ containing a value of this type.
 <tr><td><code>bevel</code></td><td>1</td><td></td></tr>
 <tr><td><code>round</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name android:mtvStrokeJoinStyle
+          @attr name com.rubika.aotalk:mtvStrokeJoinStyle
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvStrokeJoinStyle = 9;
         /**
@@ -5415,7 +5455,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvStrokeMiter
+          @attr name com.rubika.aotalk:mtvStrokeMiter
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvStrokeMiter = 7;
         /**
@@ -5429,7 +5469,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvStrokeWidth
+          @attr name com.rubika.aotalk:mtvStrokeWidth
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvStrokeWidth = 6;
         /**
@@ -5443,7 +5483,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:mtvTypeface
+          @attr name com.rubika.aotalk:mtvTypeface
         */
         public static final int com_rubika_aotalk_improvedtextview_ImprovedTextView_mtvTypeface = 4;
         /** Attributes that can be used with a com_rubika_aotalk_tiledscrollview_TiledScrollView.
@@ -5479,7 +5519,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:file_pattern
+          @attr name com.rubika.aotalk:file_pattern
         */
         public static final int com_rubika_aotalk_tiledscrollview_TiledScrollView_file_pattern = 0;
         /**
@@ -5493,7 +5533,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:image_height
+          @attr name com.rubika.aotalk:image_height
         */
         public static final int com_rubika_aotalk_tiledscrollview_TiledScrollView_image_height = 4;
         /**
@@ -5507,7 +5547,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:image_width
+          @attr name com.rubika.aotalk:image_width
         */
         public static final int com_rubika_aotalk_tiledscrollview_TiledScrollView_image_width = 3;
         /**
@@ -5521,7 +5561,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:tile_height
+          @attr name com.rubika.aotalk:tile_height
         */
         public static final int com_rubika_aotalk_tiledscrollview_TiledScrollView_tile_height = 2;
         /**
@@ -5535,7 +5575,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:tile_width
+          @attr name com.rubika.aotalk:tile_width
         */
         public static final int com_rubika_aotalk_tiledscrollview_TiledScrollView_tile_width = 1;
     };

@@ -613,7 +613,7 @@ public class ClientService extends Service implements MusicFocusable {
 				msg.arg1 = currentCharacter.getID();
 
 				if (currentAccount != null) {
-					msg.arg2 = DimensionAddress.RK.getID();
+					msg.arg2 = DimensionAddress.RK5.getID();
 				} else {
 					msg.arg2 = 0;
 				}
@@ -1880,7 +1880,7 @@ public class ClientService extends Service implements MusicFocusable {
 							}
 
 							if (chatClient.getState() == ChatClient.ClientState.DISCONNECTED) {
-								chatClient.connect(DimensionAddress.RK);
+								chatClient.connect(DimensionAddress.RK5);
 							}
 						}
 					} catch (IOException e) {
